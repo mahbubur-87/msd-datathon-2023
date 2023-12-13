@@ -1,0 +1,29 @@
+Substance abuse is a major problem in the United States, 
+
+Substance use disorder, as a recognized medical brain disorder, refers to the use of illegal substances, 
+such as marijuana, heroin, cocaine, or methamphetamine. Or the misuse of legal substances, such as alcohol, nicotine, or prescription medicines.
+
+
+
+with an estimated 21.2 million Americans aged 12 or older
+struggling with a disorder in 2020. 
+
+In 2021, there were approximately 14,000 specialized substance abuse
+treatment facilities in the US, serving over 1.3 million people. Even with these treatment facilities, there are a lot of
+barriers to accessing treatment, including a lack of insurance coverage, stigma or limited availability in services in
+certain areas. Given all of this, there is still lots of room for novel discoveries into these substance abuse programs, as
+well as improvements to be made regarding their strategic implementation.
+
+
+
+
+For this datathon, your job is to evaluate our substance abuse treatment programs within the United States, through
+the lens of data!
+
+As of 2016, an estimated 28 million people around the globe are battling a substance use disorder. Yet only a small portion – 10% – are getting the treatment.
+
+There is a multitude of reasons why people put off treatment. 
+Some feel ashamed to admit they need help due to the social stigma that surrounds addiction. Others don’t want to leave their career, family, or other obligations behind.
+
+
+
